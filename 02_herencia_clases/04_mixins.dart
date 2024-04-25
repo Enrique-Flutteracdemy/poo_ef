@@ -21,4 +21,6 @@ void main() {
   astro.imprimir1("Mi primer desc");
 
   astro.imprimirHola();
+
+  //https://medium.com/comunidad-flutter/dart-qué-son-los-mixins-5f2ab880a4ce
 }
